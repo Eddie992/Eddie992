@@ -67,13 +67,13 @@
 ---
 
 
-
+<!--
 ### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO)
 <br/>
 ---
-
+-->
 
 <!--
 **Eddie992/Eddie992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
